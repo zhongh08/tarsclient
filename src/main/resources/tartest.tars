@@ -1,0 +1,12 @@
+module TestApp
+{
+	interface Hello
+	{
+	    string hello(int no, string name);
+	};
+	
+	interface Test
+	{
+	    string test(string name);
+	};
+};
