@@ -3,6 +3,8 @@ module TestApp
 	interface Hello
 	{
 	    string hello(int no, string name);
+
+	    string hello2(string name);
 	};
 	
 	interface Test

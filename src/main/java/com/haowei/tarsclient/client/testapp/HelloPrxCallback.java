@@ -11,4 +11,6 @@ public abstract class HelloPrxCallback extends TarsAbstractCallback {
 
 	public abstract void callback_hello(String ret);
 
+	public abstract void callback_hello2(String ret);
+
 }
